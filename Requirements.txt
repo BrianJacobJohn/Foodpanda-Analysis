@@ -1,0 +1,10 @@
+numpy 
+pandas 
+ipykernel
+matplotlib
+plotly
+dash
+streamlit
+scikit-learn
+tensorflow
+nbformat>=4.2.0 
